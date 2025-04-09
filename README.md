@@ -4,7 +4,7 @@ This project is an open source replacement of the [Microsoft Xbox Live Communica
 
 This is a redesign intended to reduce the cost of production and assembly by moving vias off pad and momving all components to the front side of the PCB. These simple changes reduce the cost to produce and assembly by as much as 50%. 
 
-<p align="center"><img src="[./.kitspace/pcb_render.png](https://raw.githubusercontent.com/nightowl3090/Hawk-Opti/refs/heads/master/Hawk-Opti3D.jpg)" alt="hawk!" width="90%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nightowl3090/Hawk-Opti/refs/heads/master/Hawk-Opti3D.jpg" alt="hawk!" width="90%"/></p>
 
 It provides feature parity with the original communicator with the following differences:
 * A 3.5mm TRRS jack is used to support more generic headsets. (Stereo headsets will output as mono.)
